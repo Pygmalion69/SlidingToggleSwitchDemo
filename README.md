@@ -1,5 +1,5 @@
-SlidingToggleSwitchDemo
-=======================
+Sliding Toggle Switch Demo
+==========================
 
 Sliding Toggle Switch Demonstration (Android)
 
